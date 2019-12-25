@@ -1,0 +1,8 @@
+{
+  "name": "jsInject",
+  "version": "1.0.0",
+  "main": "jsInject.js",
+  "repository": "https://github.com/nixklai/jsInject",
+  "author": "Nick Lai <nick20080808@gmail.com>",
+  "license": "MIT"
+}
